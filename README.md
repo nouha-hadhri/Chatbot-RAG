@@ -1,1 +1,1 @@
-# Chatbot-RAG realisé par nouha hadhri 
+# Chatbot-RAG :Implémentation d'un chatbot à travers une architecture RAG using postgreSQL 
